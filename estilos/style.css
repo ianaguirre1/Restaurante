@@ -11,7 +11,7 @@ body {
   color: black;
 }
 .site-header {
-  background-image: url('/imagenes/perro.jpg');
+  background-image: url('../imagenes/perro.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
